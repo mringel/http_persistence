@@ -1,7 +1,7 @@
 # HTTP Server with Simple Persistence
-** Matthew Ringel  
-sea-d45-javascript  
-10 November 2015 **
+** Matthew Ringel **  
+** sea-d45-javascript **  
+** 10 November 2015 **
 
 HTTP Server has two routes
 
